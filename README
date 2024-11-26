@@ -40,7 +40,10 @@ Notion - All in one productivity tool
 
 Describe any challenges encountered while building the app.
 
-I had some trouble connecting the UI to the logic needed to make the button work. To make the button interactive, I connected its action to the logic in the ViewController.swift file by opening the Storyboard, enabling the Assistant editor, and using Control + Drag from the button to the ViewController class to create an IBAction. I named the action changeBackgroundColor and set its type to UIButton. Since it was my first time creating an application in Swift, I encountered issues but resolved them by creating a new version of the project and identifying the error.
+I had some trouble connecting the UI to the logic needed to make the button work. To make the button interactive, I connected its action to the logic in the ViewController.swift 
+file by opening the Storyboard, enabling the Assistant editor, and using Control + Drag from the button to the ViewController class to create an IBAction. I named the action 
+changeBackgroundColor and set its type to UIButton. Since it was my first time creating an application in Swift, I encountered issues but resolved them by creating a new version 
+of the project and identifying the error.
 ## License
 
     Copyright [yyyy] [name of copyright owner]
