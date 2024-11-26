@@ -18,9 +18,14 @@ The following **required** functionality is completed:
 - [X] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/36e220f836704b2da767e5938dcac22b?sid=83c8f88a-4829-453a-81b5-abe1f61f13f3" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
+<div>
+    <a href="https://www.loom.com/share/36e220f836704b2da767e5938dcac22b">
+      <p>Codepath_ios - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/36e220f836704b2da767e5938dcac22b">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/36e220f836704b2da767e5938dcac22b-69f862c2adbe7987-full-play.gif">
+    </a>
+  </div>
 ## App Brainstorming (Step 4)
 Yuka - a mobile application that allows users to scan the barcodes of food and cosmetic products to assess their health impact
 
