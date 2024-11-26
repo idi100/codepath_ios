@@ -22,7 +22,21 @@ The following **required** functionality is completed:
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/36e220f836704b2da767e5938dcac22b?sid=83c8f88a-4829-453a-81b5-abe1f61f13f3" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ## App Brainstorming (Step 4)
+Yuka - a mobile application that allows users to scan the barcodes of food and cosmetic products to assess their health impact
 
+1. Ease of information : Upon scanning, Yuka provides a rating and detailed information about the product's nutritional quality, presence of additives, and, for cosmetics, the safety of ingredients
+2. The interface is simple and intuitive, making it accessible for users of all ages.
+
+CapybaraGo - an adventure based game that encourages users to gain points to level up
+
+1. Each adventure is different, with randomized encounters that keep the game fresh and replayable
+2. A captivating story motivates players to progress through the game, with branching narratives based on choices.
+3. 
+
+Notion - All in one productivity tool
+
+1.  Notion combines features like note-taking, task management, project planning, databases, and wikis into a single platform.
+2. Notion works on desktop, web browsers, and mobile devices, ensuring your workspace is always within reach.
 ## Notes
 
 Describe any challenges encountered while building the app.
